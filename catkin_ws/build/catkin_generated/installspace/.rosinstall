@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lab/rmua/catkin_ws/install/setup.sh
